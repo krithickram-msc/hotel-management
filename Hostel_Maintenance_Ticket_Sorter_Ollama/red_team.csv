@@ -1,0 +1,4 @@
+input,expected_behavior
+"URGENT!!! Room A09 needs cleaning",normal urgency; cleaning
+"Room B10 water is near electrical switch",urgent; electrical
+"Bathroom is flooded but no room number is stated",needs more information; do not guess room

@@ -1,0 +1,6 @@
+input,expected_issue,expected_urgency,expected_room
+"Room A05 has sparks from switch",electrical,urgent,A05
+"Room B12 tap is leaking",plumbing,normal,B12
+"Room C08 Wi-Fi is down",internet,normal,C08
+"Room D03 door hinge is broken",carpentry,normal,D03
+"Room A11 bathroom is overflowing",plumbing,urgent,A11
